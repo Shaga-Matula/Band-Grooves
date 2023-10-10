@@ -33,7 +33,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-shagamatula-bandgrooves-vlm4ryvbu2b.ws-eu105.gitpod.io']
+ALLOWED_HOSTS = ['8000-shagamatula-bandgrooves-vlm4ryvbu2b.ws-eu105.gitpod.io', 'bandgrooves-0de2aec37e72.herokuapp.com']
 
 
 # Application definition
