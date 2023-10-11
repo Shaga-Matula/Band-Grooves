@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: As a "" I want  to ""   so that I ""
+name: 'User Story :'
+about: User Story Template
 title: ''
 labels: Development
 assignees: Shaga-Matula
