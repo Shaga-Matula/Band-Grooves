@@ -21,11 +21,19 @@
 
 * The website is designed to provide a comprehensive overview of the band and their music to their fans and potential new listeners, making it easy for them to stay up-to-date with the band's latest news and events.
 
-# Design
+# Design (Please note this is a MVP and color and framing may change during the project)
 
 ### Landing Page
+
 <img src="static/images/readme/landingpage.png"  alt="Landing Page"  width="500">
 
+### Bio Page
+
+<img src="static/images/readme/biopage.png"  alt="Bio Page"  width="500">
+
+### Music Page
+
+<img src="static/images/readme/musicpage.png"  alt="Music Page"  width="500">
 
 ### COLOR Pallet
 
