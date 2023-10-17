@@ -21,7 +21,8 @@
 
 * The website is designed to provide a comprehensive overview of the band and their music to their fans and potential new listeners, making it easy for them to stay up-to-date with the band's latest news and events.
 
-# Design (Please note this is a MVP and color and framing may change during the project)
+# Design 
+* (Please note this is a MVP and color and framing may change during the project)
 
 ### Landing Page
 
@@ -35,7 +36,22 @@
 
 <img src="static/images/readme/musicpage.png"  alt="Music Page"  width="500">
 
+### Store Page
+
+<img src="static/images/readme/storepage.png"  alt="Music Page"  width="500">
+
+### Blog Page
+
+<img src="static/images/readme/blogpage.png"  alt="Music Page"  width="500">
+
+### Contact Page
+
+<img src="static/images/readme/contactpage.png"  alt="Music Page"  width="500">
+
 ### COLOR Pallet
+
+* Thankyou to HookAgency for Pallett idea. 
+* [Link to HookAgency](https://hookagency.com/blog/web-design-color-palettes/)
 
 <img src="static/images/readme/colorpallet.png"  alt="Color Pallet" height="300" width="300">
 
